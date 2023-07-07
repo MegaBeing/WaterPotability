@@ -1,3 +1,42 @@
+
+# Water Potability
+
+This is a classification Machine learning Model which detects that **the Water is safe to drink or not**
+
+* Used python to integrate pandas library for pre-processing of the data
+* used python to integrate Scikit-learn library to implement machine learning models
+* used Swelte to create a Web application for the same
+
+## Installation
+
+Python Environment
+
+### Linux
+
+```bash
+    sudo apt install python3
+    sudo apt install pip
+```
+_Virtual Environment_  
+
+[Install Anaconda](https://docs.anaconda.com/free/anaconda/install/linux/)  
+[Install conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+
+### Important libraries _(Nvidia-Gpu Required)_
+
+Numpy : [Documentation](https://numpy.org/doc/)
+```bash
+    pip install Numpy
+```
+Pandas : [Documentation](https://pandas.pydata.org/docs/)
+```bash
+    pip install pandas
+```
+Scikit-Learn (Sklearn) : [Documentation](https://scikit-learn.org/0.21/documentation.html)
+```bash
+    pip install scikit-learn
+```
+    
 # 💫 About Me:
 I'm a Software developer who likes to work on the profound applications on Machine Learning, Deep Learning, etc
 
