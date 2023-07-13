@@ -5,7 +5,7 @@ This is a classification Machine learning Model which detects that **the Water i
 
 * Used python to integrate pandas library for pre-processing of the data
 * used python to integrate Scikit-learn library to implement machine learning models
-* used Swelte to create a Web application for the same
+* used Svelte to create a Web application for the same
 
 ## Installation
 
